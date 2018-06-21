@@ -1,8 +1,9 @@
 {
     "titulo": "DEMO PAGINA",
     "email": "demo@prueba.com",
-    "facebook": "",
-    "instagram": "",
-    "twitter": "",
+    "facebook": "https://www.facebook.com/",
+    "twitter": "https://twitter.com/?lang=es",
+    "nombre_corto": "NEMATRONIX",
+    "telefono": "33-44-33-22-11",
     "equipo_trabajo": []
 }
